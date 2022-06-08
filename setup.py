@@ -6,6 +6,6 @@ setup(
    description='A useful module',
    author='Man Foo',
    author_email='foomail@foo.com',
-   packages=['random_estimator'],  #same as name
+   packages=['rdmmodel'],  #same as name
    install_requires=['numpy','scikit-learn'], #external packages as dependencies
 )
