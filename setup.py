@@ -7,5 +7,5 @@ setup(
    author='Man Foo',
    author_email='foomail@foo.com',
    packages=['random_estimator'],  #same as name
-   install_requires=['scikit-learn', 'bar', 'greek'], #external packages as dependencies
+   install_requires=['scikit-learn'], #external packages as dependencies
 )
