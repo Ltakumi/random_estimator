@@ -1,5 +1,5 @@
-from sklearn.base import BaseEstimator
 import numpy as np
+from sklearn.base import BaseEstimator
 import pandas as pd
 
 class MyRandomRegressor(BaseEstimator):
